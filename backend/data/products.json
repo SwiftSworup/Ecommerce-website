@@ -1,0 +1,148 @@
+[
+    {
+        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+        "price" : "45.89",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 4.5,
+        "images"  : [{
+            "public_id" : "products/Headphones_ylmmvl",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682750656/products/Headphones_ylmmvl.jpg"
+        }],
+        "category" : "Electronics",
+        "seller"   : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews"     : []
+    },
+    {
+        "name": "Adapter Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+        "price" : "315.00",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 2,
+        "images"  : [{
+            "public_id" : "products/Laptop_u4nfqq",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682750652/products/Laptop_u4nfqq.jpg"
+        }],
+        "category" : "Electronics",
+        "seller"   : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews"     : []
+    },
+    {
+        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+        "price" : "45.89",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 3.5,
+        "images"  : [{
+            "public_id" : "Accessories_z8jph3",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682750655/products/Accessories_z8jph3.jpg"
+        }],
+        "category" : "Electronics",
+        "seller"   : "Amazon",
+        "stock" : 1,
+        "numOfReviews" : 12,
+        "reviews"     : []
+    },
+    {
+        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+        "price" : "45.89",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 4.5,
+        "images"  : [{
+            "public_id" : "products/alphacolor-J80xTgXEWLI-unsplash_lsf8bs",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682758674/products/alphacolor-J80xTgXEWLI-unsplash_lsf8bs.jpg"
+        }],
+        "category" : "Headphones",
+        "seller"   : "Amazon",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews"     : []
+    },
+    {
+        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+        "price" : "45.89",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 4.5,
+        "images"  : [{
+            "public_id" : "products/yelloheadphones_d65ege",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682755141/products/yelloheadphones_d65ege.jpg"
+        }],
+        "category" : "Electronics",
+        "seller"   : "Amazon",
+        "stock" : 112,
+        "numOfReviews" : 1142,
+        "reviews"     : []
+    },
+    {
+        "name": "Accessiors for you guys",
+        "price" : "45.89",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 4.5,
+        "images"  : [{
+            "public_id" : "products/Accessories_z8jph3",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682750655/products/Accessories_z8jph3.jpg"
+        }],
+        "category" : "Accessories",
+        "seller"   : "Amazon",
+        "stock" : 11,
+        "numOfReviews" : 6,
+        "reviews"     : []
+    },
+    {
+        "name": "Nikon Camera 18-55m f/3.5.5.6G VR Black",
+        "price" : "45.89",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 4.5,
+        "images"  : [{
+            "public_id" : "products/Cameras_w56ae5",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682750647/products/Cameras_w56ae5.jpg"
+        }],
+        "category" : "Cameras",
+        "seller"   : "Amazon",
+        "stock" : 131,
+        "numOfReviews" : 222,
+        "reviews"     : []
+    },
+    {
+        "name": "Apple MacBook Air(13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray",
+        "price" : "949.99",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 4.5,
+        "images"  : [{
+            "public_id" : "products/Laptop_u4nfqq",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682750652/products/Laptop_u4nfqq.jpg"
+        }],
+        "category" : "Laptops",
+        "seller"   : "Amazon",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews"     : []
+    },
+    {
+        "name": "Kauffman Orchards Homemade Collection Plates",
+        "price" : "40",
+        "description" : " What sets the SanDisk Ultra Memory Card apart is its fast read and write speeds, up to 120MB/s and 90MB/s respectively. This means you can quickly transfer large files and enjoy smooth playback of high-resolution video without any lag or stuttering.",
+        "ratings" : 5,
+        "images"  : [
+            {
+            "public_id" : "products/lidye-1Shk_PkNkNw-unsplash_cfmm5k",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682758641/products/lidye-1Shk_PkNkNw-unsplash_cfmm5k.jpg"
+        },
+        {
+            "public_id" : "products/brooke-lark-08bOYnH_r_E-unsplash_k81vxi",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682758635/products/brooke-lark-08bOYnH_r_E-unsplash_k81vxi.jpg"
+        },
+        {
+            "public_id" : "products/Food_vmg6q1",
+            "url" : "https://res.cloudinary.com/buytheway/image/upload/v1682750659/products/Food_vmg6q1.jpg"
+        }
+        
+    ],
+        "category" : "Food",
+        "seller"   : "Swarup's Food Market",
+        "stock" : 500,
+        "numOfReviews" : 1,
+        "reviews"     : []
+    }
+]
